@@ -1,4 +1,7 @@
+
 Bonsoir à toutes et tous. 
 Je suis assis au troisième rang. 
 Chaise du milieu.
-ff
+
+J'aimerais obtenir une erreur s'il vous plait.
+
